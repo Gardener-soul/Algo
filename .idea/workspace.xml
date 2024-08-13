@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c24489a-2d24-4107-a135-90d3c1cb11ca" name="Changes" comment="[Algo] 5일차 문제풀이 - Map/Set&#10;&#10;Map 과 Set에 대한 문제풀이" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Algo/MapSet" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2k0xNB1ovp5NHJeYbQitwgVTePa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Algo/Stack/Queue&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/wbype/Desktop/SSAFY/Algo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.38965517&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wbype\Desktop\SSAFY\Algo\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c24489a-2d24-4107-a135-90d3c1cb11ca" name="Changes" comment="" />
+      <created>1722434253542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722434253542</updated>
+      <workItem from="1722434257611" duration="4632000" />
+      <workItem from="1722476877684" duration="4052000" />
+      <workItem from="1722492813728" duration="8262000" />
+      <workItem from="1722516899771" duration="7058000" />
+      <workItem from="1722572446551" duration="13414000" />
+      <workItem from="1722837286155" duration="1325000" />
+      <workItem from="1722841439384" duration="5271000" />
+      <workItem from="1722927345074" duration="4750000" />
+      <workItem from="1722953786335" duration="4872000" />
+      <workItem from="1723026080453" duration="4672000" />
+      <workItem from="1723035623371" duration="4618000" />
+      <workItem from="1723099148807" duration="7457000" />
+      <workItem from="1723122014374" duration="7421000" />
+      <workItem from="1723178206151" duration="1445000" />
+      <workItem from="1723179676932" duration="127000" />
+      <workItem from="1723179824589" duration="15592000" />
+      <workItem from="1723448925027" duration="4498000" />
+      <workItem from="1723459955387" duration="1465000" />
+      <workItem from="1723525544928" duration="3708000" />
+    </task>
+    <task id="LOCAL-00001" summary="[Algo] 문자열 메소드 및 문제 풀이">
+      <option name="closed" value="true" />
+      <created>1722434979466</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722434979466</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[Algo] 문자열 메소드 및 문제 풀이">
+      <option name="closed" value="true" />
+      <created>1722434984483</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722434984483</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[Merge] 충돌 오류 해결 중&#10;&#10;깃은 어렵다">
+      <option name="closed" value="true" />
+      <created>1722435196589</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722435196589</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[Merge] 충돌 오류 해결 중&#10;&#10;깃은 어렵다">
+      <option name="closed" value="true" />
+      <created>1722435262481</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722435262481</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[Algo] 2일차 문제풀이&#10;&#10;더 풀 거긴 한데, 오늘이 지나기 전에 Commit">
+      <option name="closed" value="true" />
+      <created>1722517663938</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722517663938</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[Algo] 3-4일차 문제풀이&#10;&#10;Commit을 잊고 있다가 이제야 하는 문제 풀이">
+      <option name="closed" value="true" />
+      <created>1722927434843</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722927434843</updated>
+    </task>
+    <task id="LOCAL-00007" summary="[Algo] 5일차 문제풀이 - Map/Set&#10;&#10;Map 과 Set에 대한 문제풀이">
+      <option name="closed" value="true" />
+      <created>1723179426417</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1723179426417</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[Algo] 문자열 메소드 및 문제 풀이" />
+    <MESSAGE value="[Merge] 충돌 오류 해결 중&#10;&#10;깃은 어렵다" />
+    <MESSAGE value="[Algo] 2일차 문제풀이&#10;&#10;더 풀 거긴 한데, 오늘이 지나기 전에 Commit" />
+    <MESSAGE value="[Algo] 3-4일차 문제풀이&#10;&#10;Commit을 잊고 있다가 이제야 하는 문제 풀이" />
+    <MESSAGE value="[Algo] 5일차 문제풀이 - Map/Set&#10;&#10;Map 과 Set에 대한 문제풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Algo] 5일차 문제풀이 - Map/Set&#10;&#10;Map 과 Set에 대한 문제풀이" />
+  </component>
+</project>
