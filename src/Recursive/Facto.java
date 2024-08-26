@@ -5,16 +5,15 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class Facto {
-    public static void recur(int num) {
-        long answer = 0;
-        if(num==0) return;
-        
+    public static long recur(int num) {
+        if(num==1) return 1;
+        else return num * recur(num-1);
     }
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int num = Integer.parseInt(br.readLine());
 
-        recur(num);
+        System.out.println(recur(num));
     }
 }
