@@ -115,7 +115,7 @@ class Point implements Comparable<Point> {
 Collections.sort(arr);
 ```
 
-5. 이분 검색
+5. 이분 탐색
 
 ```java
 int lt = 0, rt = arr.length-1;

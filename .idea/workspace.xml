@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c24489a-2d24-4107-a135-90d3c1cb11ca" name="Changes" comment="[Algo] 5일차 문제풀이 - Map/Set&#10;&#10;Map 과 Set에 대한 문제풀이" />
+    <list default="true" id="6c24489a-2d24-4107-a135-90d3c1cb11ca" name="Changes" comment="[Algo] 문제풀이 - Sort&#10;&#10;Sort와 이분 탐색에 대한 문제 풀이&#10;이분탐색을 다시 풀어볼 것">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursive/Facto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursive/Facto.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +46,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Algo/Stack/Queue&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Algo/Recursion&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/wbype/Desktop/SSAFY/Algo&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -89,6 +93,15 @@
       <workItem from="1723448925027" duration="4498000" />
       <workItem from="1723459955387" duration="1465000" />
       <workItem from="1723525544928" duration="3708000" />
+      <workItem from="1723531310197" duration="4155000" />
+      <workItem from="1723556289666" duration="594000" />
+      <workItem from="1723614061977" duration="12332000" />
+      <workItem from="1724137643193" duration="6177000" />
+      <workItem from="1724161874555" duration="1148000" />
+      <workItem from="1724224352311" duration="3569000" />
+      <workItem from="1724307714269" duration="2828000" />
+      <workItem from="1724492315114" duration="3479000" />
+      <workItem from="1724651916611" duration="11676000" />
     </task>
     <task id="LOCAL-00001" summary="[Algo] 문자열 메소드 및 문제 풀이">
       <option name="closed" value="true" />
@@ -146,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723179426417</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="[Algo] 문제풀이 - Sort&#10;&#10;Sort와 이분 탐색에 대한 문제 풀이&#10;이분탐색을 다시 풀어볼 것">
+      <option name="closed" value="true" />
+      <created>1724495369517</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724495369517</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +179,7 @@
     <MESSAGE value="[Algo] 2일차 문제풀이&#10;&#10;더 풀 거긴 한데, 오늘이 지나기 전에 Commit" />
     <MESSAGE value="[Algo] 3-4일차 문제풀이&#10;&#10;Commit을 잊고 있다가 이제야 하는 문제 풀이" />
     <MESSAGE value="[Algo] 5일차 문제풀이 - Map/Set&#10;&#10;Map 과 Set에 대한 문제풀이" />
-    <option name="LAST_COMMIT_MESSAGE" value="[Algo] 5일차 문제풀이 - Map/Set&#10;&#10;Map 과 Set에 대한 문제풀이" />
+    <MESSAGE value="[Algo] 문제풀이 - Sort&#10;&#10;Sort와 이분 탐색에 대한 문제 풀이&#10;이분탐색을 다시 풀어볼 것" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Algo] 문제풀이 - Sort&#10;&#10;Sort와 이분 탐색에 대한 문제 풀이&#10;이분탐색을 다시 풀어볼 것" />
   </component>
 </project>
